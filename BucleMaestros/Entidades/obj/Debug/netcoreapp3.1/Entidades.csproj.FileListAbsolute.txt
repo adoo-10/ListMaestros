@@ -1,0 +1,10 @@
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Entidades\obj\Debug\netcoreapp3.1\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb

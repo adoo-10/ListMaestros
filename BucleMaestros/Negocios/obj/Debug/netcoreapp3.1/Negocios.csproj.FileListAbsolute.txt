@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Negocios\bin\Debug\netcoreapp3.1\Negocios.deps.json
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Negocios\bin\Debug\netcoreapp3.1\Negocios.dll
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Negocios\bin\Debug\netcoreapp3.1\Negocios.pdb
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Negocios\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Negocios\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Negocios\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Negocios\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Negocios\obj\Debug\netcoreapp3.1\Negocios.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Negocios\obj\Debug\netcoreapp3.1\Negocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Negocios\obj\Debug\netcoreapp3.1\Negocios.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Negocios\obj\Debug\netcoreapp3.1\Negocios.AssemblyInfo.cs
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Negocios\obj\Debug\netcoreapp3.1\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Negocios\obj\Debug\netcoreapp3.1\Negocios.csproj.CopyComplete
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Negocios\obj\Debug\netcoreapp3.1\Negocios.dll
+C:\Users\MINEDUCYT\source\repos\BucleMaestros\Negocios\obj\Debug\netcoreapp3.1\Negocios.pdb
